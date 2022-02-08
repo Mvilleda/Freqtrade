@@ -79,10 +79,10 @@
         "listen_port": 8080,
         "verbosity": "error",
         "enable_openapi": false,
-        "jwt_secret_key": "d13a0a909c783dee63eb75b27483c4daaf3dac96ef1eba23fe34ecc6e32ffd87",
+        "jwt_secret_key": "--",
         "CORS_origins": [],
-        "username": "VieVille",
-        "password": "Mvilleda27"
+        "username": "--",
+        "password": "--"
     },
     "bot_name": "freqtrade",
     "initial_state": "running",
